@@ -1,0 +1,4 @@
+account_sid: ""
+token: ""
+sender: "" #Sender Number (Provided by Twilio)
+sms_interval: 5 #Seconds

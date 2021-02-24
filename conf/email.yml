@@ -1,0 +1,4 @@
+email_username: ""
+email_password: ""
+email_service: "gmail"
+email_interval: 20 #Seconds
